@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kurlyHashRouterGitHub/static/css/main.4c91723e.css",
+    "main.js": "/kurlyHashRouterGitHub/static/js/main.56be5a08.js",
+    "index.html": "/kurlyHashRouterGitHub/index.html",
+    "main.4c91723e.css.map": "/kurlyHashRouterGitHub/static/css/main.4c91723e.css.map",
+    "main.56be5a08.js.map": "/kurlyHashRouterGitHub/static/js/main.56be5a08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c91723e.css",
+    "static/js/main.56be5a08.js"
+  ]
+}
